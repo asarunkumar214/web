@@ -1,0 +1,44 @@
+body{
+    background-image: url(./ff.avif);
+    background-size:cover;
+
+    
+}
+
+h1{
+    color: rgb(22, 22, 23);
+    font-size: xx-large;
+    background-color: black;
+    font-style: oblique;
+    text-align: center;
+    background-color: rgba(220, 220, 220, 0.3);
+ 
+}
+
+td{
+    border: 1px solid black;
+}
+
+    
+
+
+td{
+    height: px;
+    width: px;
+    text-align: center;
+    color: black;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+    
+}
+div{
+    background-image: url(./nagna.jpg);
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(9, 9, 9, 0.8);
+
+}
+#j{
+    
+}
